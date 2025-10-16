@@ -1,3 +1,4 @@
+print("Vamos brincar com as Tags is do Python");
 a = input("Escreva algo: ");
 print ("O tipo primitivo desse valor é: ",type(a));
 print ("Só tem espaços? ", a.isspace());
