@@ -1,0 +1,4 @@
+#print("""Aprender Python é uma jornada empolgante e muito recompensadora. Por ser uma linguagem de programação conhecida por sua sintaxe clara e legibilidade, ela facilita o aprendizado para iniciantes. Além disso, Python é incrivelmente versátil, sendo utilizada em áreas como desenvolvimento web, análise de dados, inteligência artificial e automação. Com uma vasta comunidade e um enorme conjunto de bibliotecas (como Pandas e NumPy), as possibilidades de projetos são praticamente ilimitadas, tornando o processo de aprendizado não só fácil, mas também muito divertido e útil para a carreira.""")
+
+nome = 'Paula Iasmim Pascoal';
+print(len(nome));
