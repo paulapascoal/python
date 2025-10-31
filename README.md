@@ -1,38 +1,63 @@
-# 🐍 Repositório de Estudos em Python
+<div align="center">
 
-Olá! Seja bem-vindo(a) ao meu repositório de exercícios e projetos do curso de Python. Este espaço é dedicado a registrar minha jornada de aprendizado, aplicando os conceitos da linguagem em desafios práticos.
+# 🐍 Curso de Python — Exercícios e Desafios  
 
----
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="120"/>
 
-### 📂 Estrutura dos Exercícios
+### 💙💛 Repositório de Estudos e Prática com Python
 
-Os exercícios estão organizados em pastas sequenciais, cada uma representando um "mundo" ou módulo do curso. Para visualizar o código, basta navegar até a pasta desejada.
-
-| Módulo | Conteúdo | Link |
-| :---: | :--- | :---: |
-| 🌎 **Mundo 1** | Fundamentos da Linguagem | [Acessar Pasta](./mundo1-exercicios/) |
-| 🌎 **Mundo 2** | Estruturas de Controle | [Acessar Pasta](./mundo2-exercicios/) |
-| 🌎 **Mundo 3** | Estruturas Compostas | [Acessar Pasta](./mundo3-exercicios/) |
+Organização dos exercícios realizados durante o curso, com foco em **lógica de programação**, **estrutura de dados** e **automação em Python**.
 
 ---
 
-### 🚀 Projetos e Desafios
+</div>
 
-Além dos exercícios, aqui estão alguns projetos desenvolvidos para aplicar o conhecimento de forma mais robusta.
+## 📘 Estrutura do Repositório
 
-| Projeto | Descrição | Link |
-| :---: | :--- | :---: |
-| 🎲 | **Jogo da Adivinhação** | [Acessar Código](./jogo-adivinhacao/) |
+| Diretório |
+|------------|
+| [Aula004](./aula004) |
+| [Aula005](./aula005) |
+| [Aula006](./aula006) |
+| [Aula007](./aula007) |
+| [Aula008](./aula008) |
+| [Aula009](./aula009) |
+| [Aula010](./aula010) |
+| [Aula011](./aula011) |
+| [Aula012](./aula012) |
+| [Aula013](./aula013) |
+| [Aula014](./aula014) |
+| [Aula015](./aula015) |
+| [Aula016](./aula016) |
+| [Aula017](./aula017) |
+| [Aula018](./aula018) |
+| [Aula019](./aula019) |
+| [Aula020](./aula020) |
+| [Aula021](./aula021) |
+| [Aula022](./aula022) |
+| [Desafios](./desafios) |
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🚀 Objetivo
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Criar uma base sólida em **Python** por meio da prática constante, desenvolvendo desde conceitos básicos até aplicações práticas e automações.
 
 ---
 
-Este repositório está em constante atualização conforme avanço no curso. Obrigado pela visita!
+## 🧠 Tecnologias e Ferramentas
+
+- 🐍 **Python 3.x**
+- 🧩 **VS Code / IDLE**
+- 📦 Bibliotecas padrão: `math`, `random`, `datetime`
+- ✨ Ênfase em clareza e aprendizado contínuo
+
+---
+
+<div align="center">
+
+### 💙💛 Feito com dedicação por [Paula Pascoal](https://github.com/paulapascoal)
+
+> _“A prática leva à fluência — e a fluência leva à criação.”_
+
+</div>
