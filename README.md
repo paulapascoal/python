@@ -47,10 +47,10 @@ Criar uma base sólida em **Python** por meio da prática constante, desenvolven
 
 ## 🧠 Tecnologias e Ferramentas
 
-- 🐍 **Python 3.x**
-- 🧩 **VS Code / IDLE**
-- 📦 Bibliotecas padrão: `math`, `random`, `datetime`
-- ✨ Ênfase em clareza e aprendizado contínuo
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
